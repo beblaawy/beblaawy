@@ -1,0 +1,14 @@
+{
+    "name": "vendor/zarboxa",
+    "description": "php framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hesham AbdAllah",
+            "email": "hesham.abdallah.ha@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk": "3.2.3"
+    }
+}
